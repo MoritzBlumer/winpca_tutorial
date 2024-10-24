@@ -1,0 +1,257 @@
+sample_id	population	country	location	sex	LATN	LONE	coverage
+AB0103-C	BFgam	Burkina Faso	Bana	F	11.233	-4.472	31.85
+AB0104-C	BFgam	Burkina Faso	Bana	F	11.233	-4.472	33.23
+AB0211-C	BFgam	Burkina Faso	Bana	F	11.233	-4.472	35.06
+AB0117-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	24.3
+AB0118-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	34.57
+AB0119-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	26.69
+AB0126-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	22.76
+AB0127-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	30.3
+AB0128-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	30.44
+AB0129-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	27.21
+AB0130-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	27.77
+AB0150-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	31.74
+AB0151-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	41.85
+AB0153-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	31.02
+AB0155-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	32.1
+AB0157-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	29.07
+AB0158-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	29.43
+AB0159-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	30.17
+AB0160-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	22.43
+AB0161-C	BFgam	Burkina Faso	Bana	M	11.233	-4.472	40.53
+AB0085-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	28.01
+AB0108-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	12.01
+AB0172-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	26.98
+AB0173-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	24.85
+AB0174-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	23.1
+AB0175-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	28.02
+AB0176-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	26.12
+AB0177-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	21.14
+AB0178-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	31.55
+AB0179-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	28.93
+AB0197-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	34.41
+AB0198-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	34.53
+AB0199-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	31.1
+AB0200-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	31.3
+AB0201-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	31.77
+AB0202-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	36.99
+AB0203-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	29.41
+AB0205-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	37.86
+AB0206-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	37.38
+AB0255-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	31.96
+AB0256-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	32.53
+AB0260-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	68.56
+AB0261-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	37.72
+AB0264-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	29.5
+AB0265-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	33.98
+AB0268-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	31.44
+AB0270-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	22.14
+AB0271-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	49.52
+AB0272-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	29.33
+AB0273-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	80.25
+AB0274-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	32.81
+AB0275-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	39.51
+AB0277-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	79.2
+AB0278-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	66.54
+AB0280-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	60.86
+AB0281-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	32.28
+AB0283-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	28.23
+AB0284-C	BFgam	Burkina Faso	Pala	F	11.15	-4.235	28.74
+AB0162-C	BFgam	Burkina Faso	Pala	M	11.15	-4.235	26.69
+AB0164-C	BFgam	Burkina Faso	Pala	M	11.15	-4.235	24.52
+AB0165-C	BFgam	Burkina Faso	Pala	M	11.15	-4.235	37.33
+AB0166-C	BFgam	Burkina Faso	Pala	M	11.15	-4.235	28.14
+AB0167-C	BFgam	Burkina Faso	Pala	M	11.15	-4.235	36.53
+AB0169-C	BFgam	Burkina Faso	Pala	M	11.15	-4.235	26.59
+AB0170-C	BFgam	Burkina Faso	Pala	M	11.15	-4.235	28.6
+AB0171-C	BFgam	Burkina Faso	Pala	M	11.15	-4.235	23.43
+AB0133-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	32.74
+AB0134-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	26.75
+AB0135-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	28.36
+AB0136-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	28.46
+AB0143-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	27.75
+AB0145-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	33.19
+AB0146-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	25.75
+AB0147-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	41.79
+AB0148-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	35.39
+AB0207-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	37.72
+AB0208-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	34.53
+AB0217-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	32.39
+AB0218-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	43.65
+AB0228-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	26.27
+AB0231-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	21.28
+AB0232-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	47.4
+AB0233-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	32.48
+AB0235-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	26.33
+AB0236-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	85.2
+AB0238-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	36.81
+AB0239-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	40.08
+AB0241-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	42.9
+AB0244-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	27.69
+AB0251-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	31.14
+AB0252-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	15.38
+AB0253-C	BFgam	Burkina Faso	Souroukoudinga	F	11.235	-4.535	68.27
+AA0048-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	32.64
+AA0050-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	29.82
+AA0060-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	29.46
+AA0061-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	29.45
+AA0072-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	29.31
+AA0084-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	34.36
+AA0085-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	31.84
+AA0086-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	33.05
+AA0096-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	29.27
+AA0108-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	27.85
+AA0122-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	34.41
+AA0133-C	GHgam	Ghana	Madina	F	5.66849	-0.21928	33.76
+AV0001-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	32.05
+AV0002-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	28.08
+AV0003-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	29.99
+AV0004-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	40.42
+AV0005-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	35.11
+AV0006-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	25.71
+AV0007-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	28.76
+AV0008-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	25.58
+AV0009-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	17.71
+AV0010-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	25.8
+AV0011-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	32.49
+AV0012-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	26.79
+AV0013-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	32.37
+AV0014-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	29.9
+AV0015-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	27.5
+AV0017-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	32.51
+AV0018-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	28.99
+AV0020-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	30.85
+AV0021-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	31.73
+AV0022-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	29.47
+AV0024-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	26.72
+AV0025-C	GNgam	Guinea	Koraboh	F	9.25	-9.917	13.21
+AV0026-C	GNgam	Guinea	Koundara	F	8.5	-9.417	21.24
+AV0027-C	GNgam	Guinea	Koundara	F	8.5	-9.417	36.71
+AV0028-C	GNgam	Guinea	Koundara	F	8.5	-9.417	36.44
+AV0029-C	GNgam	Guinea	Koundara	F	8.5	-9.417	30.73
+AV0030-C	GNgam	Guinea	Koundara	F	8.5	-9.417	23.36
+AV0031-C	GNgam	Guinea	Koundara	F	8.5	-9.417	25.23
+AV0032-C	GNgam	Guinea	Koundara	F	8.5	-9.417	32.95
+AV0033-C	GNgam	Guinea	Koundara	F	8.5	-9.417	50.25
+AV0034-C	GNgam	Guinea	Koundara	F	8.5	-9.417	27.32
+AV0035-C	GNgam	Guinea	Koundara	F	8.5	-9.417	26.81
+AV0036-C	GNgam	Guinea	Koundara	F	8.5	-9.417	16.33
+AV0037-C	GNgam	Guinea	Koundara	F	8.5	-9.417	19.84
+AV0039-C	GNgam	Guinea	Koundara	F	8.5	-9.417	33.83
+AV0041-C	GNgam	Guinea	Koundara	F	8.5	-9.417	25.99
+AV0043-C	GNgam	Guinea	Koundara	F	8.5	-9.417	12.06
+AV0044-C	GNgam	Guinea	Koundara	F	8.5	-9.417	31.85
+AV0045-C	GNgam	Guinea	Koundara	F	8.5	-9.417	30.8
+AV0047-C	GNgam	Guinea	Koundara	F	8.5	-9.417	30.94
+AC0089-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.28
+AC0090-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.43
+AC0091-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.27
+AC0092-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.73
+AC0093-C	UGgam	Uganda	Tororo	F	0.77	34.026	38.3
+AC0094-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.78
+AC0095-C	UGgam	Uganda	Tororo	F	0.77	34.026	33.34
+AC0096-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.59
+AC0097-C	UGgam	Uganda	Tororo	F	0.77	34.026	35.86
+AC0098-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.9
+AC0099-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.44
+AC0100-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.9
+AC0101-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.22
+AC0102-C	UGgam	Uganda	Tororo	F	0.77	34.026	35.08
+AC0103-C	UGgam	Uganda	Tororo	F	0.77	34.026	33.59
+AC0104-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.84
+AC0105-C	UGgam	Uganda	Tororo	F	0.77	34.026	38.09
+AC0106-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.07
+AC0107-C	UGgam	Uganda	Tororo	F	0.77	34.026	35.19
+AC0108-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.35
+AC0109-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.02
+AC0110-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.86
+AC0111-C	UGgam	Uganda	Tororo	F	0.77	34.026	29.73
+AC0112-C	UGgam	Uganda	Tororo	F	0.77	34.026	33.12
+AC0113-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.28
+AC0114-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.18
+AC0115-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.38
+AC0116-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.1
+AC0117-C	UGgam	Uganda	Tororo	F	0.77	34.026	29.11
+AC0118-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.52
+AC0119-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.83
+AC0120-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.98
+AC0121-C	UGgam	Uganda	Tororo	F	0.77	34.026	35.66
+AC0122-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.16
+AC0123-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.99
+AC0124-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.05
+AC0125-C	UGgam	Uganda	Tororo	F	0.77	34.026	39.15
+AC0126-C	UGgam	Uganda	Tororo	F	0.77	34.026	29.21
+AC0127-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.07
+AC0128-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.2
+AC0129-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.19
+AC0130-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.91
+AC0131-C	UGgam	Uganda	Tororo	F	0.77	34.026	37.01
+AC0132-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.85
+AC0133-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.58
+AC0134-C	UGgam	Uganda	Tororo	F	0.77	34.026	55.75
+AC0135-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.88
+AC0136-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.19
+AC0137-C	UGgam	Uganda	Tororo	F	0.77	34.026	29.72
+AC0138-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.35
+AC0139-C	UGgam	Uganda	Tororo	F	0.77	34.026	29.16
+AC0140-C	UGgam	Uganda	Tororo	F	0.77	34.026	24.17
+AC0141-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.96
+AC0142-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.14
+AC0143-C	UGgam	Uganda	Tororo	F	0.77	34.026	37.45
+AC0144-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.32
+AC0145-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.76
+AC0146-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.21
+AC0147-C	UGgam	Uganda	Tororo	F	0.77	34.026	33.37
+AC0148-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.56
+AC0149-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.25
+AC0150-C	UGgam	Uganda	Tororo	F	0.77	34.026	38.25
+AC0151-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.72
+AC0152-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.99
+AC0153-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.51
+AC0154-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.94
+AC0155-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.11
+AC0156-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.16
+AC0157-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.74
+AC0158-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.52
+AC0159-C	UGgam	Uganda	Tororo	F	0.77	34.026	36.25
+AC0160-C	UGgam	Uganda	Tororo	F	0.77	34.026	39.51
+AC0161-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.01
+AC0162-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.88
+AC0163-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.46
+AC0164-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.89
+AC0166-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.12
+AC0167-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.95
+AC0168-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.42
+AC0169-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.29
+AC0170-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.85
+AC0171-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.92
+AC0172-C	UGgam	Uganda	Tororo	F	0.77	34.026	23.85
+AC0173-C	UGgam	Uganda	Tororo	F	0.77	34.026	27.35
+AC0174-C	UGgam	Uganda	Tororo	F	0.77	34.026	26.35
+AC0176-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.6
+AC0177-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.88
+AC0178-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.43
+AC0179-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.67
+AC0180-C	UGgam	Uganda	Tororo	F	0.77	34.026	31.14
+AC0181-C	UGgam	Uganda	Tororo	F	0.77	34.026	36.1
+AC0182-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.6
+AC0183-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.62
+AC0184-C	UGgam	Uganda	Tororo	F	0.77	34.026	36.25
+AC0185-C	UGgam	Uganda	Tororo	F	0.77	34.026	28.23
+AC0186-C	UGgam	Uganda	Tororo	F	0.77	34.026	38.86
+AC0187-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.28
+AC0188-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.94
+AC0189-C	UGgam	Uganda	Tororo	F	0.77	34.026	25.49
+AC0190-C	UGgam	Uganda	Tororo	F	0.77	34.026	29.83
+AC0191-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.86
+AC0192-C	UGgam	Uganda	Tororo	F	0.77	34.026	26.96
+AC0193-C	UGgam	Uganda	Tororo	F	0.77	34.026	30.48
+AC0194-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.52
+AC0195-C	UGgam	Uganda	Tororo	F	0.77	34.026	38.55
+AC0196-C	UGgam	Uganda	Tororo	F	0.77	34.026	35.06
+AC0197-C	UGgam	Uganda	Tororo	F	0.77	34.026	29.36
+AC0199-C	UGgam	Uganda	Tororo	F	0.77	34.026	41.56
+AC0200-C	UGgam	Uganda	Tororo	F	0.77	34.026	34.29
+AC0201-C	UGgam	Uganda	Tororo	F	0.77	34.026	32.87
+AC0202-C	UGgam	Uganda	Tororo	F	0.77	34.026	44.69
+AC0203-C	UGgam	Uganda	Tororo	F	0.77	34.026	35.04
